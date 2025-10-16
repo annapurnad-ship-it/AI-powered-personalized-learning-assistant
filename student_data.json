@@ -1,0 +1,37 @@
+{
+  "assignments": [
+    {
+      "id": 1,
+      "title": "human",
+      "subject": "uhv",
+      "deadline": "2025-10-17",
+      "difficulty": "Easy",
+      "status": "Pending",
+      "created_date": "2025-10-16 11:56:07"
+    }
+  ],
+  "works": [
+    {
+      "id": 1,
+      "title": "dsd",
+      "subject": "asx",
+      "duration_hours": 1.0,
+      "completed": false,
+      "date": "2025-10-16",
+      "timestamp": "2025-10-16 11:58:04"
+    }
+  ],
+  "projects": [],
+  "study_log": [],
+  "timetable": {
+    "Monday": [
+      {
+        "time": "11:56",
+        "subject": "uhv",
+        "duration": 1.0
+      }
+    ]
+  },
+  "streak": 0,
+  "total_study_hours": 0.0
+}
